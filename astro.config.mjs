@@ -6,18 +6,18 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: '软件学社 Software House',
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/XMU-Software-House/' }],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: '关于我们',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: '关于我们', slug: 'guides/example' },
 					],
 				},
 				{
-					label: 'Reference',
+					label: '加入我们',
 					items: [{ autogenerate: { directory: 'reference' } }],
 				},
 			],

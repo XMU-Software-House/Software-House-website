@@ -1,11 +1,6 @@
 ---
-title: Example Guide
-description: A guide in my new Starlight docs site.
+title: 关于我们
+description: a
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
-
-## Further reading
-
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+厦门大学软件学社成立于 2004 年 9 月，是厦门大学信息学院的学术科技类社团，旨在为 XMU 软件人提供一个探讨编程问题、交流专业技术的空间。社团内举办开源分享会、学术交流会等软件或学术交流活动。社团承办 Python 语言积分赛与软件设计大赛两项校级学业竞赛，它们是厦大本科生展现编程技艺的重要平台。

@@ -1,40 +1,32 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
+title: 厦门大学软件学社
+description: 软件学社
 template: splash # Remove or comment out this line to display the site sidebar on this page.
 hero:
-  tagline: Congrats on setting up a new Starlight project!
+  tagline: 厦门大学软件学社成立于 2004 年 9 月，旨在为软件人提供一个探讨编程问题、交流专业技术的空间。社团承办 Python 语言积分赛与软件设计大赛两项校级学业竞赛，它们是厦大本科生展现编程技艺的重要平台。
   image:
-    file: ../../assets/houston.webp
+    file: ../../assets/logo.png
   actions:
-    - text: Example Guide
+    - text: 社团简介
       link: /guides/example/
       icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
-      variant: minimal
+    - text: 加入我们
+      link: /reference/example
+      icon: right-arrow
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+## 了解我们
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="Python 语言积分赛" icon="pencil">
+		厦门大学 Python 语言积分赛的前身是本社团在 2008—2025 年举办的 C 语言积分赛，将在 2026 年 12 月举办第一届。
 	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
+	<Card title="软件设计大赛" icon="document">
+		第十八届厦门大学软件设计大赛将在 2027 年举办，敬请关注。
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="社团纳新" icon="open-book">
+		[加入我们](/reference/example)吧！
 	</Card>
 </CardGrid>

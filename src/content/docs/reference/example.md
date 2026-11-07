@@ -1,11 +1,8 @@
 ---
-title: Example Reference
-description: A reference page in my new Starlight docs site.
+title: 加入我们
+description: a
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+本社团 2026 年度第一批（干事）纳新报名表提交已截止，将在近期进行面试。
 
-## Further reading
-
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+更广泛的纳新，请关注 2026 年 12 月初的社团文化节。
